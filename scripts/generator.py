@@ -2,7 +2,7 @@ import requests
 import subprocess
 
 # URL da lista IPTV
-url_lista_iptv = "https://github.com/punkstarbr/STR-YT/raw/main/OUTRA4.m3u"
+url_lista_iptv = "https://github.com/punkstarbr/STR-YT/raw/main/RUSSIA.M4U"
 
 # Função para testar cada canal com FFmpeg
 def testar_canal_ffmpeg(url):
