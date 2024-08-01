@@ -3,17 +3,17 @@
 import requests
 import os
 import sys
-import yt_dlp
+import youtube_dl
 import logging
 from logging.handlers import RotatingFileHandler
 import json
 
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)  
+logger.setLevel(logging.DEBUG)
 
-log_file = "log.txt" 
+log_file = "log.txt"
 file_handler = RotatingFileHandler(log_file)
-file_handler.setLevel(logging.DEBUG) 
+file_handler.setLevel(logging.DEBUG)
 
 formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 file_handler.setFormatter(formatter)
@@ -28,27 +28,22 @@ def grab(url):
     try:
         if url.endswith('.m3u') or url.endswith('.m3u8') or ".ts" in url:
             return url
-
+        
         ydl_opts = {
             'format': 'best',
-            'quiet': True,
             'noplaylist': True,
-            'outtmpl': '/dev/null',  # Para não salvar o arquivo
+            'quiet': True,
+            'logger': logger,
+            'progress_hooks': [lambda d: logger.debug("Downloading %s: %s", url, d)]
         }
 
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info = ydl.extract_info(url, download=False)
-            if 'formats' in info:
-                for format in info['formats']:
-                    if format.get('format_note') == 'best':
+        with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+            info_dict = ydl.extract_info(url, download=False)
+            if 'formats' in info_dict:
+                for format in info_dict['formats']:
+                    if format.get('format_id') == 'best':
                         return format['url']
             return None
-    except yt_dlp.utils.DownloadError as err:
-        logger.error("URL Error DownloadError %s: %s", url, err)
-        return None
-    except yt_dlp.utils.ExtractorError as err:
-        logger.error("URL Error ExtractorError %s: %s", url, err)
-        return None
     except Exception as err:
         logger.error("URL Error %s: %s", url, err)
         return None
@@ -108,7 +103,6 @@ with open("playlist.m3u", "w") as f:
     f.write(banner)
     f.write(f'\n#EXTM3U')
 
-
     prev_item = None
 
     for item in channel_data:
@@ -120,14 +114,13 @@ with open("playlist.m3u", "w") as f:
             f.write(item['url'])
             f.write('\n')
 
-
 prev_item = None
 
 for item in channel_data:
     if item['type'] == 'info':
         prev_item = item
     if item['type'] == 'link' and item['url']:
-        channel_data_json.append( {
+        channel_data_json.append({
             "id": prev_item["tvg_id"],
             "name": prev_item["ch_name"],
             "alt_names": [""],
