@@ -1,278 +1,278 @@
-2025-01-04 21:16:26,508 - debug - URL Streams https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live: {}
-2025-01-04 21:16:26,706 - debug - URL Streams https://www.youtube.com/watch?v=ztAU9B_z36g/live: {}
-2025-01-04 21:16:26,913 - debug - URL Streams https://www.youtube.com/user/TVPublicaArgentina/live: {}
-2025-01-04 21:16:27,390 - debug - URL Streams https://www.youtube.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q/live: {}
-2025-01-04 21:16:27,556 - debug - URL Streams https://www.youtube.com/c/MediasetEspa%C3%B1aOficial/live: {}
-2025-01-04 21:16:27,944 - debug - URL Streams https://www.twitch.tv/granhermanochile1: {}
-2025-01-04 21:16:28,238 - debug - URL Streams https://www.twitch.tv/mvrenocl: {}
-2025-01-04 21:16:28,809 - debug - URL Streams https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8: <Response [200]>
-2025-01-04 21:16:29,206 - debug - URL Streams https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8: <Response [200]>
-2025-01-04 21:16:29,396 - error - URL Error https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8: Unable to open URL: https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8 (403 Client Error: Forbidden for url: https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8)
-2025-01-04 21:16:29,637 - debug - URL Streams https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8: <Response [200]>
-2025-01-04 21:16:30,338 - debug - URL Streams https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8: <Response [200]>
-2025-01-04 21:16:30,436 - error - URL Error No PluginError https://www.youtube.com/channel/UC6kNHHQl1YY1SRp7AYfxlbw/Live: 
-2025-01-04 21:16:30,557 - debug - URL Streams https://www.youtube.com/channel/UC6kNHHQl1YY1SRp7AYfxlbw/Live: <Response [200]>
-2025-01-04 21:16:30,754 - debug - URL Streams https://www.youtube.com/watch?v=4rtYenPSjp4/Live: {}
-2025-01-04 21:16:31,260 - debug - URL Streams https://www.youtube.com/watch?v=0iMpPy0HnkM/Live: {}
-2025-01-04 21:16:31,997 - debug - URL Streams https://www.youtube.com/watch?v=fdvfSKju3YM/Live: {}
-2025-01-04 21:16:32,196 - debug - URL Streams https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live: {}
-2025-01-04 21:16:32,389 - debug - URL Streams https://www.youtube.com/watch?v=Ove87nZ_1D4/Live: {}
-2025-01-04 21:16:32,574 - debug - URL Streams https://www.youtube.com/watch?v=28Azb5gyTdg/Live: {}
-2025-01-04 21:16:32,782 - debug - URL Streams https://www.youtube.com/watch?v=pAw6Ys4s638/Live: {}
-2025-01-04 21:16:33,514 - debug - URL Streams https://www.youtube.com/watch?v=jFQhllVo0_A/Live: {}
-2025-01-04 21:16:34,232 - debug - URL Streams https://www.youtube.com/watch?v=rjz5-gVhjHI/live: {}
-2025-01-04 21:16:34,766 - debug - URL Streams https://www.youtube.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ/live: {}
-2025-01-04 21:16:34,938 - error - URL Error No PluginError https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live: 
-2025-01-04 21:16:35,106 - debug - URL Streams https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live: <Response [200]>
-2025-01-04 21:16:35,310 - debug - URL Streams https://www.youtube.com/watch?v=u_C7Lwe1798/Live: {}
-2025-01-04 21:16:35,779 - debug - URL Streams https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live: {}
-2025-01-04 21:16:36,092 - error - URL Error No PluginError https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live: 
-2025-01-04 21:16:36,387 - debug - URL Streams https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live: <Response [200]>
-2025-01-04 21:16:36,571 - debug - URL Streams https://www.youtube.com/watch?v=xvGxvwWlnJ8/Live: {}
-2025-01-04 21:16:36,741 - error - URL Error No PluginError https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live: 
-2025-01-04 21:16:36,885 - debug - URL Streams https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live: <Response [200]>
-2025-01-04 21:16:37,436 - debug - URL Streams https://www.youtube.com/watch?v=UKsX8l6f578/Live: {}
-2025-01-04 21:16:37,808 - error - URL Error No PluginError https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/Live: 
-2025-01-04 21:16:38,117 - debug - URL Streams https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/Live: <Response [200]>
-2025-01-04 21:16:38,312 - debug - URL Streams https://www.youtube.com/watch?v=Sh54vNR2QSo/Live: {}
-2025-01-04 21:16:38,663 - error - URL Error No PluginError https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/Live: 
-2025-01-04 21:16:38,925 - debug - URL Streams https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/Live: <Response [200]>
-2025-01-04 21:16:39,558 - debug - URL Streams https://www.youtube.com/watch?v=zTZ2s0ArTtU/Live: {}
-2025-01-04 21:16:40,226 - debug - URL Streams https://www.youtube.com/watch?v=zcWXboTnous/Live: {}
-2025-01-04 21:16:40,559 - error - URL Error No PluginError https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/Live: 
-2025-01-04 21:16:40,944 - debug - URL Streams https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/Live: <Response [200]>
-2025-01-04 21:16:41,128 - debug - URL Streams https://www.youtube.com/watch?v=6EIZBCYpAlQ/Live: {}
-2025-01-04 21:16:41,280 - error - URL Error No PluginError https://www.youtube.com/channel/UCbHFKMtqLYkIBRiPHJwxu_w/Live: 
-2025-01-04 21:16:41,371 - debug - URL Streams https://www.youtube.com/channel/UCbHFKMtqLYkIBRiPHJwxu_w/Live: <Response [200]>
-2025-01-04 21:16:41,563 - debug - URL Streams https://www.youtube.com/watch?v=jN0TnHxhliA/Live: {}
-2025-01-04 21:16:41,891 - error - URL Error No PluginError https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/Live: 
-2025-01-04 21:16:42,199 - debug - URL Streams https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/Live: <Response [200]>
-2025-01-04 21:16:42,837 - debug - URL Streams https://www.youtube.com/watch?v=2CN2zI5v5eY/Live: {}
-2025-01-04 21:16:43,238 - error - URL Error No PluginError https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/Live: 
-2025-01-04 21:16:43,557 - debug - URL Streams https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/Live: <Response [200]>
-2025-01-04 21:16:43,778 - debug - URL Streams https://www.youtube.com/watch?v=VsdIRJHq2q4/Live: {}
-2025-01-04 21:16:43,982 - error - URL Error No PluginError https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/Live: 
-2025-01-04 21:16:44,172 - debug - URL Streams https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/Live: <Response [200]>
-2025-01-04 21:16:44,375 - debug - URL Streams https://www.youtube.com/watch?v=NNDgdhYg7Ic/live: {}
-2025-01-04 21:16:44,501 - error - URL Error No PluginError https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/Live: 
-2025-01-04 21:16:44,633 - debug - URL Streams https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/Live: <Response [200]>
-2025-01-04 21:16:44,842 - debug - URL Streams https://www.youtube.com/watch?v=J7bd1GGTf44/Live: {}
-2025-01-04 21:16:44,969 - debug - URL Streams https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live: {}
-2025-01-04 21:16:45,159 - debug - URL Streams https://www.youtube.com/watch?v=9DXGrOU5wKQ/Live: {}
-2025-01-04 21:16:45,272 - error - URL Error No PluginError https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ/Live: 
-2025-01-04 21:16:45,370 - debug - URL Streams https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ/Live: <Response [200]>
-2025-01-04 21:16:45,770 - error - URL Error No PluginError https://www.youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/Live: 
-2025-01-04 21:16:46,101 - debug - URL Streams https://www.youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/Live: <Response [200]>
-2025-01-04 21:16:46,353 - debug - URL Streams https://www.youtube.com/watch?v=grRGtho7dWw/Live: {}
-2025-01-04 21:16:46,729 - error - URL Error No PluginError https://www.youtube.com/channel/UCDUxOvbwu1bnyD7AucP0ESw/Live: 
-2025-01-04 21:16:47,112 - debug - URL Streams https://www.youtube.com/channel/UCDUxOvbwu1bnyD7AucP0ESw/Live: <Response [200]>
-2025-01-04 21:16:47,347 - debug - URL Streams https://www.youtube.com/watch?v=ewYTDXCeXxU/Live: {}
-2025-01-04 21:16:47,553 - debug - URL Streams https://www.youtube.com/watch?v=HwDXYSa5GlE/live: {}
-2025-01-04 21:16:47,776 - debug - URL Streams https://www.youtube.com/watch?v=atp5bj05UyM/live: {}
-2025-01-04 21:16:47,997 - debug - URL Streams https://www.youtube.com/watch?v=MygtOAyBN7M/live: {}
-2025-01-04 21:16:48,220 - debug - URL Streams https://www.youtube.com/watch?v=pM4O3DwIQ2o/live: {}
-2025-01-04 21:16:48,443 - debug - URL Streams https://www.youtube.com/watch?v=WXJoE88lS-4/live: {}
-2025-01-04 21:16:49,067 - debug - URL Streams https://www.youtube.com/watch?v=bX7yOW-XOWc/live: {}
-2025-01-04 21:16:49,250 - debug - URL Streams https://www.youtube.com/watch?v=Ho6s54dgOZw/live: {}
-2025-01-04 21:16:49,432 - debug - URL Streams https://www.youtube.com/watch?v=TbcXvJqd6d8/live: {}
-2025-01-04 21:16:49,903 - debug - URL Streams https://www.youtube.com/watch?v=R0KcCDYj8zU/live: {}
-2025-01-04 21:16:50,175 - error - URL Error No PluginError https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/Live: 
-2025-01-04 21:16:50,432 - debug - URL Streams https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/Live: <Response [200]>
-2025-01-04 21:16:51,055 - debug - URL Streams https://www.youtube.com/watch?v=jfYiD4V79l4/Live: {}
-2025-01-04 21:16:51,277 - debug - URL Streams https://www.youtube.com/watch?v=x3yaF3liehk/live: {}
-2025-01-04 21:16:51,532 - debug - URL Streams https://www.youtube.com/watch?v=w_Ma8oQLmSM/Live: {}
-2025-01-04 21:16:52,140 - error - URL Error No PluginError https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/Live: 
-2025-01-04 21:16:52,739 - debug - URL Streams https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/Live: <Response [200]>
-2025-01-04 21:16:53,294 - debug - URL Streams https://www.youtube.com/watch?v=HHLZZOyXCvg/Live: {}
-2025-01-04 21:16:53,680 - error - URL Error No PluginError https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/Live: 
-2025-01-04 21:16:54,008 - debug - URL Streams https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/Live: <Response [200]>
-2025-01-04 21:16:55,019 - debug - URL Streams https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live: {}
-2025-01-04 21:16:55,363 - error - URL Error No PluginError https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ/Live: 
-2025-01-04 21:16:55,691 - debug - URL Streams https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ/Live: <Response [200]>
-2025-01-04 21:16:56,336 - debug - URL Streams https://www.youtube.com/watch?v=Yw9HPSKHO2s/Live: {}
-2025-01-04 21:16:56,543 - debug - URL Streams https://www.youtube.com/watch?v=NcoFT4eew0Q/Live: {}
-2025-01-04 21:16:56,755 - debug - URL Streams https://www.youtube.com/watch?v=-upyPouRrB8/Live: {}
-2025-01-04 21:16:57,109 - error - URL Error No PluginError https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/Live: 
-2025-01-04 21:16:57,386 - debug - URL Streams https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/Live: <Response [200]>
-2025-01-04 21:16:58,047 - debug - URL Streams https://www.youtube.com/user/AlJazeeraEnglish/live: {}
-2025-01-04 21:16:58,589 - debug - URL Streams https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live: {}
-2025-01-04 21:16:59,243 - debug - URL Streams https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live: {}
-2025-01-04 21:16:59,777 - debug - URL Streams https://www.youtube.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w/live: {}
-2025-01-04 21:17:00,470 - debug - URL Streams https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live: {}
-2025-01-04 21:17:01,096 - debug - URL Streams https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q/live: {}
-2025-01-04 21:17:01,697 - debug - URL Streams https://www.youtube.com/channel/UC-LRBEUet4xX2fRB3JitFxg/live: {}
-2025-01-04 21:17:02,252 - debug - URL Streams https://www.youtube.com/channel/UCx6h-dWzJ5NpAlja1YsApdg/live: {}
-2025-01-04 21:17:02,723 - debug - URL Streams https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live: {}
-2025-01-04 21:17:03,281 - debug - URL Streams https://www.youtube.com/channel/UCmuTmpLY35O3csvhyA6vrkg/live: {}
-2025-01-04 21:17:03,834 - debug - URL Streams https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live: {}
-2025-01-04 21:17:04,366 - debug - URL Streams https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live: {}
-2025-01-04 21:17:04,948 - debug - URL Streams https://www.youtube.com/user/deutschewelleenglish/live: {}
-2025-01-04 21:17:05,524 - debug - URL Streams https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live: {}
-2025-01-04 21:17:06,063 - debug - URL Streams https://www.youtube.com/user/skynews/live: {}
-2025-01-04 21:17:06,581 - debug - URL Streams https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live: {}
-2025-01-04 21:17:07,104 - debug - URL Streams https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live: {}
-2025-01-04 21:17:07,710 - debug - URL Streams https://www.youtube.com/user/Bloomberg/live: {}
-2025-01-04 21:17:08,309 - debug - URL Streams https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ/live: {}
-2025-01-04 21:17:09,082 - debug - URL Streams https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA/live: {}
-2025-01-04 21:17:09,677 - debug - URL Streams https://www.youtube.com/user/channelnewsasia/live: {}
-2025-01-04 21:17:10,294 - debug - URL Streams https://www.youtube.com/watch?v=ptGbSDn_MnQ/live: {}
-2025-01-04 21:17:10,961 - debug - URL Streams https://www.youtube.com/watch?v=ORi4Cx5MlyI/live: {}
-2025-01-04 21:17:11,172 - debug - URL Streams https://www.youtube.com/watch?v=gsA3-3_Cl8s/live: {}
-2025-01-04 21:17:11,390 - debug - URL Streams https://www.youtube.com/watch?v=XZ7BWbmvi94/live: {}
-2025-01-04 21:17:11,431 - error - URL Error No PluginError Nat Geo SHARKFEST IS BACK | 24/7 Shark Content | Explore | https://yt3.googleusercontent.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s176-c-k-c0x00ffffff-no-rj |: 
-2025-01-04 21:17:11,431 - error - URL Error Nat Geo SHARKFEST IS BACK | 24/7 Shark Content | Explore | https://yt3.googleusercontent.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s176-c-k-c0x00ffffff-no-rj |: No connection adapters were found for 'Nat Geo SHARKFEST IS BACK | 24/7 Shark Content | Explore | https://yt3.googleusercontent.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s176-c-k-c0x00ffffff-no-rj |'
-2025-01-04 21:17:11,640 - debug - URL Streams https://www.youtube.com/watch?v=lFPG2B7hJs0/live: {}
-2025-01-04 21:17:11,962 - debug - URL Streams https://www.youtube.com/channel/UCBnZ16ahKA2DZ_T5W0FPUXg/live: {}
-2025-01-04 21:17:12,272 - debug - URL Streams https://www.youtube.com/channel/UCVt43Y46_8DHzwhLau0xVcw/live: {}
-2025-01-04 21:17:12,874 - debug - URL Streams https://youtube.com/c/PowerRangersOfficial/live: {}
-2025-01-04 21:17:13,080 - debug - URL Streams https://www.youtube.com/watch?v=1R35uh5J4Yg/live: {}
-2025-01-04 21:17:13,275 - debug - URL Streams https://www.youtube.com/watch?v=5aglJRVC9ts/live: {}
-2025-01-04 21:17:13,684 - debug - URL Streams https://www.youtube.com/watch?v=XUoMptfVZ2A/live: {}
-2025-01-04 21:17:14,312 - debug - URL Streams https://www.youtube.com/channel/UCUe6ZpY6TJ0no8jI4l2iLxw/live: {}
-2025-01-04 21:17:14,867 - debug - URL Streams https://www.youtube.com/channel/UCmWZB57dUwFfj847-4y63JA/live: {}
-2025-01-04 21:17:15,041 - debug - URL Streams https://www.youtube.com/channel/UC5M_h2S8Ldoc9M6f7B-_m6A/live: {}
-2025-01-04 21:17:15,598 - debug - URL Streams https://www.youtube.com/c/DaveAndAva/live: {}
-2025-01-04 21:17:15,830 - debug - URL Streams https://www.youtube.com/user/ENGLISHCLASS101/live: {}
-2025-01-04 21:17:16,049 - debug - URL Streams https://www.youtube.com/c/SimplilearnOfficial/live: {}
-2025-01-04 21:17:16,609 - debug - URL Streams https://www.youtube.com/watch?v=djslEyHPpW4/Live: {}
-2025-01-04 21:17:16,780 - error - URL Error No PluginError https://www.youtube.com/user/TechGuyLabs/Live: 
-2025-01-04 21:17:16,984 - debug - URL Streams https://www.youtube.com/user/TechGuyLabs/Live: <Response [200]>
-2025-01-04 21:17:17,601 - debug - URL Streams https://www.youtube.com/watch?v=CjtaROG-Ezk/Live: {}
-2025-01-04 21:17:17,852 - error - URL Error No PluginError https://www.youtube.com/channel/UCCU3AYg53YY8tBBtGiuisrw/Live: 
-2025-01-04 21:17:18,032 - debug - URL Streams https://www.youtube.com/channel/UCCU3AYg53YY8tBBtGiuisrw/Live: <Response [200]>
-2025-01-04 21:17:18,363 - error - URL Error No PluginError https://www.youtube.com/channel/UC-7z5DvOhWT4RxeYb3Bh77Q/Live: 
-2025-01-04 21:17:18,612 - debug - URL Streams https://www.youtube.com/channel/UC-7z5DvOhWT4RxeYb3Bh77Q/Live: <Response [200]>
-2025-01-04 21:17:19,276 - debug - URL Streams https://www.youtube.com/watch?v=9lQ2JCodIeA/Live: {}
-2025-01-04 21:17:19,493 - debug - URL Streams https://www.youtube.com/watch?v=0qfiHGUstk4/Live: {}
-2025-01-04 21:17:19,609 - error - URL Error No PluginError https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live: 
-2025-01-04 21:17:19,724 - debug - URL Streams https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live: <Response [200]>
-2025-01-04 21:17:19,916 - debug - URL Streams https://www.youtube.com/watch?v=qoEcy8HS8-8/Live: {}
-2025-01-04 21:17:20,460 - debug - URL Streams https://www.youtube.com/watch?v=2cyQPN5xQtU/Live: {}
-2025-01-04 21:17:21,119 - debug - URL Streams https://www.youtube.com/watch?v=AdUw5RdyZxI/Live: {}
-2025-01-04 21:17:21,305 - debug - URL Streams https://www.youtube.com/watch?v=1-iS7LArMPA/live: {}
-2025-01-04 21:17:22,307 - debug - URL Streams https://www.youtube.com/watch?v=4qyZLflp-sI/live: {}
-2025-01-04 21:17:22,890 - debug - URL Streams https://www.youtube.com/watch?v=x3IRgb5kfpw/Live: {}
-2025-01-04 21:17:23,491 - debug - URL Streams https://www.youtube.com/watch?v=21X5lGlDOfg/Live: {}
-2025-01-04 21:17:23,750 - error - URL Error No PluginError https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/Live: 
-2025-01-04 21:17:23,990 - debug - URL Streams https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/Live: <Response [200]>
-2025-01-04 21:17:24,668 - debug - URL Streams https://www.youtube.com/watch?v=BhKUpUNICII/Live: {}
-2025-01-04 21:17:24,876 - error - URL Error No PluginError https://www.youtube.com/channel/UCiormkBf3jm6mfb7k0yPbKA/Live: 
-2025-01-04 21:17:25,100 - debug - URL Streams https://www.youtube.com/channel/UCiormkBf3jm6mfb7k0yPbKA/Live: <Response [200]>
-2025-01-04 21:17:25,762 - debug - URL Streams https://www.youtube.com/watch?v=3t8__aWpVsQ/Live: {}
-2025-01-04 21:17:25,991 - error - URL Error No PluginError https://www.youtube.com/channel/UC_WdFDFWB6l8mrUVuKs7gOg/Live: 
-2025-01-04 21:17:26,271 - debug - URL Streams https://www.youtube.com/channel/UC_WdFDFWB6l8mrUVuKs7gOg/Live: <Response [200]>
-2025-01-04 21:17:27,027 - debug - URL Streams https://www.youtube.com/channel/UCqSYig9Cmx6DJ3XaUYg4vpw/live: {}
-2025-01-04 21:17:27,866 - debug - URL Streams https://www.youtube.com/channel/UCtPhR34windpzltylYrj5mg/live: {}
-2025-01-04 21:17:28,002 - debug - URL Streams https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live: {}
-2025-01-04 21:17:28,596 - debug - URL Streams https://www.youtube.com/c/BoasNovasbr/live: {}
-2025-01-04 21:17:28,812 - debug - URL Streams https://www.youtube.com/c/TVVERDADE/live: {}
-2025-01-04 21:17:28,979 - debug - URL Streams https://www.youtube.com/c/AparecidaAoVivo/live: {}
-2025-01-04 21:17:29,421 - debug - URL Streams https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live: {}
-2025-01-04 21:17:30,036 - debug - URL Streams https://www.youtube.com/channel/UCOAjX8pc2fY1S5AqsXvZywg/live: {}
-2025-01-04 21:17:30,571 - debug - URL Streams https://www.youtube.com/c/LeSanctuaireNotreDamedeLourdes/live: {}
-2025-01-04 21:17:30,811 - debug - URL Streams https://www.youtube.com/c/TVACr%C3%ADtica/live: {}
-2025-01-04 21:17:31,316 - error - URL Error No PluginError https://www.youtube.com/user/diariotv4/LIVE: 
-2025-01-04 21:17:31,675 - debug - URL Streams https://www.youtube.com/user/diariotv4/LIVE: <Response [200]>
-2025-01-04 21:17:32,257 - debug - URL Streams https://www.youtube.com/channel/UCoja0MNI4SIvXqJR3szbSfw/live: {}
-2025-01-04 21:17:32,946 - debug - URL Streams https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA/live: {}
-2025-01-04 21:17:33,392 - debug - URL Streams https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live: {}
-2025-01-04 21:17:33,815 - debug - URL Streams https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live: {}
-2025-01-04 21:17:34,753 - debug - URL Streams https://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live: {}
-2025-01-04 21:17:35,472 - debug - URL Streams https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live: {}
-2025-01-04 21:17:36,217 - debug - URL Streams https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live: {}
-2025-01-04 21:17:36,426 - debug - URL Streams https://www.youtube.com/channel/UCD9nZ3qeRGbPuHJaJduiQxA/live: {}
-2025-01-04 21:17:37,023 - debug - URL Streams https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live: {}
-2025-01-04 21:17:37,244 - debug - URL Streams https://www.youtube.com/channel/UCuXT13wiqK56NR7QSfDWpvg/live: {}
-2025-01-04 21:17:37,446 - debug - URL Streams https://www.youtube.com/channel/UC72UssJ1DNQcakZXm-B2-zw/live: {}
-2025-01-04 21:17:38,096 - debug - URL Streams https://www.youtube.com/channel/UCYUbNjkuE4lsr2v1Id2O1oA/live: {}
-2025-01-04 21:17:38,302 - debug - URL Streams https://www.youtube.com/channel/UC7Vw6oq2LCbzAhdxF_UcIWg/live: {}
-2025-01-04 21:17:38,871 - debug - URL Streams https://www.youtube.com/channel/UCoIhMkbeDRBImkGiA5mZp5A/live: {}
-2025-01-04 21:17:39,374 - debug - URL Streams https://www.youtube.com/channel/UCWTkpYvniGIUe1jeCncFzKw/live: {}
-2025-01-04 21:17:39,971 - debug - URL Streams https://www.youtube.com/channel/UCkr9qZ5tj9dGd7JvE3a8X4Q/live: {}
-2025-01-04 21:17:40,500 - debug - URL Streams https://www.youtube.com/channel/UCwPzlQU2MqEQJWgqM_0VFKQ/live: {}
-2025-01-04 21:17:41,111 - debug - URL Streams https://www.youtube.com/channel/UCrlIS7z20CnVaCrMvdkig_g/live: {}
-2025-01-04 21:17:41,655 - debug - URL Streams https://www.youtube.com/channel/UCMZiahOsO-Ad4IgrD6x4E1A/live: {}
-2025-01-04 21:17:42,287 - debug - URL Streams https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live: {}
-2025-01-04 21:17:42,831 - debug - URL Streams https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live: {}
-2025-01-04 21:17:43,369 - debug - URL Streams https://www.youtube.com/c/ADN40MX/live: {}
-2025-01-04 21:17:43,651 - debug - URL Streams https://www.youtube.com/c/nmas/live: {}
-2025-01-04 21:17:44,267 - debug - URL Streams https://www.youtube.com/c/ajmubasher/live: {}
-2025-01-04 21:17:44,360 - error - URL Error https://www.youtube.com/c/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024/live: Unable to open URL: https://www.youtube.com/c/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024/live (404 Client Error: Not Found for url: https://www.youtube.com/c/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024/live)
-2025-01-04 21:17:44,950 - debug - URL Streams https://www.youtube.com/channel/UCbpmfj2g2tYuBezI2kEDhsg/live: {}
-2025-01-04 21:17:45,495 - debug - URL Streams https://www.youtube.com/c/SBGR-Live/live: {}
-2025-01-04 21:17:45,685 - debug - URL Streams https://www.youtube.com/channel/UCsF_WAG6g2cWnFKhcrJAQCQ/live: {}
-2025-01-04 21:17:46,294 - debug - URL Streams https://www.youtube.com/c/AVTVBrasil/live: {}
-2025-01-04 21:17:46,791 - debug - URL Streams https://www.youtube.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw/live: {}
-2025-01-04 21:17:47,647 - debug - URL Streams https://www.youtube.com/channel/UCpWekERnJ3zwk-0gFlfursg/live: {}
-2025-01-04 21:17:47,804 - debug - URL Streams https://www.youtube.com/channel/UCbZEWw8NHAcW9a06s0Q0ZMg/live: {}
-2025-01-04 21:17:47,983 - debug - URL Streams https://www.youtube.com/channel/UCM6-EhR88ZM5TmhHNeBd6UA/live: {}
-2025-01-04 21:17:48,140 - debug - URL Streams https://www.youtube.com/channel/UCcjlnrL3_LV4fC9CcrHth7w/live: {}
-2025-01-04 21:17:48,623 - debug - URL Streams https://www.youtube.com/shoptime/live: {}
-2025-01-04 21:17:49,208 - debug - URL Streams https://www.youtube.com/channel/UCVbQc8XY2Cx-TgMHRHluOoQ/live: {}
-2025-01-04 21:17:50,216 - debug - URL Streams https://www.youtube.com/watch?v=UqFzfqlb60g/Live: {}
-2025-01-04 21:17:50,936 - debug - URL Streams https://www.youtube.com/watch?v=_v_wMS-uACE/Live: {}
-2025-01-04 21:17:52,153 - debug - URL Streams https://www.youtube.com/watch?v=1ph8qQnjXts/Live: {}
-2025-01-04 21:17:53,040 - debug - URL Streams https://www.youtube.com/watch?v=q-BvtDrTnxc/Live: {}
-2025-01-04 21:17:53,668 - debug - URL Streams https://www.youtube.com/watch?v=1ph8qQnjXts/live: {}
-2025-01-04 21:17:54,442 - debug - URL Streams https://www.youtube.com/watch?v=q-BvtDrTnxc/live: {}
-2025-01-04 21:17:55,342 - debug - URL Streams https://www.youtube.com/watch?v=1ph8qQnjXts/Live: {}
-2025-01-04 21:17:56,188 - debug - URL Streams https://www.youtube.com/watch?v=q-BvtDrTnxc/Live: {}
-2025-01-04 21:17:56,853 - debug - URL Streams https://www.youtube.com/watch?v=UqFzfqlb60g/Live: {}
-2025-01-04 21:17:57,679 - debug - URL Streams https://www.youtube.com/watch?v=_v_wMS-uACE/Live: {}
-2025-01-04 21:17:58,170 - debug - URL Streams https://www.youtube.com/user/qvcitalia/live: {}
-2025-01-04 21:17:58,434 - error - URL Error No PluginError https://www.youtube.com/channel/UCXg1nkxv-HywQRsIo3XAFIA/LIVE: 
-2025-01-04 21:17:58,702 - debug - URL Streams https://www.youtube.com/channel/UCXg1nkxv-HywQRsIo3XAFIA/LIVE: <Response [200]>
-2025-01-04 21:17:59,517 - debug - URL Streams https://www.youtube.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw/live: {}
-2025-01-04 21:18:00,487 - debug - URL Streams https://www.youtube.com/channel/UCyCljI7PbGR7zOIHJXQSK2w/live: {}
-2025-01-04 21:18:01,091 - debug - URL Streams https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live: {}
-2025-01-04 21:18:01,694 - debug - URL Streams https://www.youtube.com/channel/UCo4sch-fwKIeyzyPIWRXjdw/live: {}
-2025-01-04 21:18:01,837 - debug - URL Streams https://www.youtube.com/channel/UCSjkdk0uRM3v6Z_4U-hk41Q/live: {}
-2025-01-04 21:18:02,403 - debug - URL Streams https://www.youtube.com/c/createandcraft/live: {}
-2025-01-04 21:18:02,995 - debug - URL Streams https://www.youtube.com/channel/UC9r76Tzp5HxeQG7SqZwV3OA/live: {}
-2025-01-04 21:18:03,722 - debug - URL Streams https://www.youtube.com/channel/UCBROhZBlBQTxRW_3h6H-rlg/live: {}
-2025-01-04 21:18:04,263 - debug - URL Streams https://www.youtube.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ/live: {}
-2025-01-04 21:18:04,759 - debug - URL Streams https://www.youtube.com/channel/UCP_T_GqYquLmsIpmDpJvULw/live: {}
-2025-01-04 21:18:04,897 - debug - URL Streams https://www.youtube.com/channel/UCyCljI7PbGR7zOIHJXQSK2w: {}
-2025-01-04 21:18:05,302 - debug - URL Streams https://www.youtube.com/channel/UC8dXdHZshMmgDmvFVzjl55Q/live: {}
-2025-01-04 21:18:05,877 - debug - URL Streams https://www.youtube.com/channel/UCv7IxJXF5EMgzZ77DVSx4IQ/live: {}
-2025-01-04 21:18:06,648 - debug - URL Streams https://www.youtube.com/user/Gemporia/live: {}
-2025-01-04 21:18:06,875 - debug - URL Streams https://www.youtube.com/channel/UCmGXuyddt_xg6ckdbGNPAjg/live: {}
-2025-01-04 21:18:07,426 - debug - URL Streams https://www.youtube.com/channel/UCGbjb7FYYmj0z3_9iJ7dMPQ/live: {}
-2025-01-04 21:18:08,064 - debug - URL Streams https://www.youtube.com/channel/UCvpCjGQASCazC-Vxcp9tgPA/live: {}
-2025-01-04 21:18:08,904 - debug - URL Streams https://www.youtube.com/channel/UCp0urejlDaYz4G8xpTxdIvw/live: {}
-2025-01-04 21:18:09,520 - debug - URL Streams https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live: {}
-2025-01-04 21:18:09,705 - debug - URL Streams https://www.youtube.com/channel/UCWGkK1d7eUmK8XmJ4Kyu4MQ/live: {}
-2025-01-04 21:18:10,249 - debug - URL Streams https://www.youtube.com/channel/UCsxo83jFFZNC9woLRVG7d4w/live: {}
-2025-01-04 21:18:10,442 - debug - URL Streams https://www.youtube.com/channel/UCBu0BKbDNL09ihRHK5wWzvQ/live: {}
-2025-01-04 21:18:11,042 - debug - URL Streams https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live: {}
-2025-01-04 21:18:11,579 - debug - URL Streams https://www.youtube.com/channel/UC4_WjgHnlKssNxWo0uFzEcw/live: {}
-2025-01-04 21:18:12,117 - debug - URL Streams https://www.youtube.com/c/HotsaleTV/live: {}
-2025-01-04 21:18:12,689 - debug - URL Streams https://www.youtube.com/c/ViVaTVtw/live: {}
-2025-01-04 21:18:12,847 - error - URL Error No PluginError https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live: 
-2025-01-04 21:18:13,063 - debug - URL Streams https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live: <Response [200]>
-2025-01-04 21:18:13,260 - debug - URL Streams https://www.youtube.com/watch?v=u_C7Lwe1798/Live: {}
-2025-01-04 21:18:13,770 - debug - URL Streams https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live: {}
-2025-01-04 21:18:14,020 - error - URL Error No PluginError https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live: 
-2025-01-04 21:18:14,265 - debug - URL Streams https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live: <Response [200]>
-2025-01-04 21:18:14,460 - debug - URL Streams https://www.youtube.com/watch?v=xvGxvwWlnJ8/Live: {}
-2025-01-04 21:18:14,651 - error - URL Error No PluginError https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live: 
-2025-01-04 21:18:14,802 - debug - URL Streams https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live: <Response [200]>
-2025-01-04 21:18:14,969 - error - URL Error No PluginError https://www.youtube.com/c/televisamorelos/Live: 
-2025-01-04 21:18:15,099 - debug - URL Streams https://www.youtube.com/c/televisamorelos/Live: <Response [200]>
-2025-01-04 21:18:15,334 - debug - URL Streams https://www.youtube.com/user/SenadoLXILegislatura/live: {}
-2025-01-04 21:18:16,178 - debug - URL Streams https://www.youtube.com/channel/UC6qrG3W8SMK0jior2olka3g/live: {}
-2025-01-04 21:18:16,691 - debug - URL Streams https://www.youtube.com/channel/UC1dI_81gsFYkd_EdA0IIBaA/live: {}
-2025-01-04 21:18:17,416 - debug - URL Streams https://www.youtube.com/channel/UCT_8WtjN20pye20BZ6LdkMQ/live: {}
-2025-01-04 21:18:17,918 - debug - URL Streams https://www.youtube.com/channel/UC0djAWwMXP22wzocdJR9dWw/live: {}
-2025-01-04 21:18:18,490 - debug - URL Streams https://www.youtube.com/channel/UCDmNmxF3ZVMeGyvWE9tOqPQ/live: {}
-2025-01-04 21:18:18,675 - debug - URL Streams https://www.youtube.com/watch?v=0qfiHGUstk4/Live: {}
-2025-01-04 21:18:18,922 - error - URL Error No PluginError https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live: 
-2025-01-04 21:18:19,032 - debug - URL Streams https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live: <Response [200]>
-2025-01-04 21:18:19,213 - debug - URL Streams https://www.youtube.com/watch?v=qoEcy8HS8-8/Live: {}
-2025-01-04 21:18:19,676 - debug - URL Streams https://www.youtube.com/channel/UCwP4zsC0r9eqRQOethu5EFg/live: {}
-2025-01-04 21:18:19,814 - debug - URL Streams https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live: {}
-2025-01-04 21:18:20,358 - debug - URL Streams https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live: {}
-2025-01-04 21:18:21,025 - debug - URL Streams https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live: {}
-2025-01-04 21:18:21,117 - error - URL Error https://www.youtube.com/user/telesurtv/live: Unable to open URL: https://www.youtube.com/user/telesurtv/live (404 Client Error: Not Found for url: https://www.youtube.com/user/telesurtv/live)
-2025-01-04 21:18:21,748 - debug - URL Streams https://www.youtube.com/user/telesurenglish/live: {}
-2025-01-04 21:18:22,418 - debug - URL Streams https://www.youtube.com/@rtvenoticias/live: {}
+2025-01-05 01:38:21,563 - debug - URL Streams https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live: {}
+2025-01-05 01:38:21,962 - debug - URL Streams https://www.youtube.com/watch?v=ztAU9B_z36g/live: {}
+2025-01-05 01:38:22,873 - debug - URL Streams https://www.youtube.com/user/TVPublicaArgentina/live: {}
+2025-01-05 01:38:23,521 - debug - URL Streams https://www.youtube.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q/live: {}
+2025-01-05 01:38:23,772 - debug - URL Streams https://www.youtube.com/c/MediasetEspa%C3%B1aOficial/live: {}
+2025-01-05 01:38:24,433 - debug - URL Streams https://www.twitch.tv/granhermanochile1: {}
+2025-01-05 01:38:24,803 - debug - URL Streams https://www.twitch.tv/mvrenocl: {}
+2025-01-05 01:38:25,871 - debug - URL Streams https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8: <Response [200]>
+2025-01-05 01:38:26,259 - debug - URL Streams https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8: <Response [200]>
+2025-01-05 01:38:26,604 - error - URL Error https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8: Unable to open URL: https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8 (403 Client Error: Forbidden for url: https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8)
+2025-01-05 01:38:27,094 - debug - URL Streams https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8: <Response [200]>
+2025-01-05 01:38:27,735 - debug - URL Streams https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8: <Response [200]>
+2025-01-05 01:38:27,891 - error - URL Error No PluginError https://www.youtube.com/channel/UC6kNHHQl1YY1SRp7AYfxlbw/Live: 
+2025-01-05 01:38:28,033 - debug - URL Streams https://www.youtube.com/channel/UC6kNHHQl1YY1SRp7AYfxlbw/Live: <Response [200]>
+2025-01-05 01:38:28,410 - debug - URL Streams https://www.youtube.com/watch?v=4rtYenPSjp4/Live: {}
+2025-01-05 01:38:29,115 - debug - URL Streams https://www.youtube.com/watch?v=0iMpPy0HnkM/Live: {}
+2025-01-05 01:38:29,913 - debug - URL Streams https://www.youtube.com/watch?v=fdvfSKju3YM/Live: {}
+2025-01-05 01:38:30,727 - debug - URL Streams https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live: {}
+2025-01-05 01:38:31,091 - debug - URL Streams https://www.youtube.com/watch?v=Ove87nZ_1D4/Live: {}
+2025-01-05 01:38:31,419 - debug - URL Streams https://www.youtube.com/watch?v=28Azb5gyTdg/Live: {}
+2025-01-05 01:38:31,773 - debug - URL Streams https://www.youtube.com/watch?v=pAw6Ys4s638/Live: {}
+2025-01-05 01:38:32,639 - debug - URL Streams https://www.youtube.com/watch?v=jFQhllVo0_A/Live: {}
+2025-01-05 01:38:33,650 - debug - URL Streams https://www.youtube.com/watch?v=rjz5-gVhjHI/live: {}
+2025-01-05 01:38:34,477 - debug - URL Streams https://www.youtube.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ/live: {}
+2025-01-05 01:38:34,721 - error - URL Error No PluginError https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live: 
+2025-01-05 01:38:34,909 - debug - URL Streams https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live: <Response [200]>
+2025-01-05 01:38:35,227 - debug - URL Streams https://www.youtube.com/watch?v=u_C7Lwe1798/Live: {}
+2025-01-05 01:38:35,875 - debug - URL Streams https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live: {}
+2025-01-05 01:38:36,198 - error - URL Error No PluginError https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live: 
+2025-01-05 01:38:36,486 - debug - URL Streams https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live: <Response [200]>
+2025-01-05 01:38:36,812 - debug - URL Streams https://www.youtube.com/watch?v=xvGxvwWlnJ8/Live: {}
+2025-01-05 01:38:37,019 - error - URL Error No PluginError https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live: 
+2025-01-05 01:38:37,199 - debug - URL Streams https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live: <Response [200]>
+2025-01-05 01:38:37,950 - debug - URL Streams https://www.youtube.com/watch?v=UKsX8l6f578/Live: {}
+2025-01-05 01:38:38,343 - error - URL Error No PluginError https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/Live: 
+2025-01-05 01:38:38,737 - debug - URL Streams https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/Live: <Response [200]>
+2025-01-05 01:38:39,184 - debug - URL Streams https://www.youtube.com/watch?v=Sh54vNR2QSo/Live: {}
+2025-01-05 01:38:39,594 - error - URL Error No PluginError https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/Live: 
+2025-01-05 01:38:39,985 - debug - URL Streams https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/Live: <Response [200]>
+2025-01-05 01:38:40,752 - debug - URL Streams https://www.youtube.com/watch?v=zTZ2s0ArTtU/Live: {}
+2025-01-05 01:38:41,613 - debug - URL Streams https://www.youtube.com/watch?v=zcWXboTnous/Live: {}
+2025-01-05 01:38:42,015 - error - URL Error No PluginError https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/Live: 
+2025-01-05 01:38:42,418 - debug - URL Streams https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/Live: <Response [200]>
+2025-01-05 01:38:42,765 - debug - URL Streams https://www.youtube.com/watch?v=6EIZBCYpAlQ/Live: {}
+2025-01-05 01:38:42,912 - error - URL Error No PluginError https://www.youtube.com/channel/UCbHFKMtqLYkIBRiPHJwxu_w/Live: 
+2025-01-05 01:38:43,058 - debug - URL Streams https://www.youtube.com/channel/UCbHFKMtqLYkIBRiPHJwxu_w/Live: <Response [200]>
+2025-01-05 01:38:43,403 - debug - URL Streams https://www.youtube.com/watch?v=jN0TnHxhliA/Live: {}
+2025-01-05 01:38:43,805 - error - URL Error No PluginError https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/Live: 
+2025-01-05 01:38:44,147 - debug - URL Streams https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/Live: <Response [200]>
+2025-01-05 01:38:44,929 - debug - URL Streams https://www.youtube.com/watch?v=2CN2zI5v5eY/Live: {}
+2025-01-05 01:38:45,357 - error - URL Error No PluginError https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/Live: 
+2025-01-05 01:38:45,764 - debug - URL Streams https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/Live: <Response [200]>
+2025-01-05 01:38:46,112 - debug - URL Streams https://www.youtube.com/watch?v=VsdIRJHq2q4/Live: {}
+2025-01-05 01:38:46,359 - error - URL Error No PluginError https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/Live: 
+2025-01-05 01:38:46,575 - debug - URL Streams https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/Live: <Response [200]>
+2025-01-05 01:38:46,901 - debug - URL Streams https://www.youtube.com/watch?v=NNDgdhYg7Ic/live: {}
+2025-01-05 01:38:47,064 - error - URL Error No PluginError https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/Live: 
+2025-01-05 01:38:47,222 - debug - URL Streams https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/Live: <Response [200]>
+2025-01-05 01:38:47,585 - debug - URL Streams https://www.youtube.com/watch?v=J7bd1GGTf44/Live: {}
+2025-01-05 01:38:47,778 - debug - URL Streams https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live: {}
+2025-01-05 01:38:48,153 - debug - URL Streams https://www.youtube.com/watch?v=9DXGrOU5wKQ/Live: {}
+2025-01-05 01:38:48,302 - error - URL Error No PluginError https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ/Live: 
+2025-01-05 01:38:48,452 - debug - URL Streams https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ/Live: <Response [200]>
+2025-01-05 01:38:48,819 - error - URL Error No PluginError https://www.youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/Live: 
+2025-01-05 01:38:49,133 - debug - URL Streams https://www.youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/Live: <Response [200]>
+2025-01-05 01:38:49,443 - debug - URL Streams https://www.youtube.com/watch?v=grRGtho7dWw/Live: {}
+2025-01-05 01:38:49,886 - error - URL Error No PluginError https://www.youtube.com/channel/UCDUxOvbwu1bnyD7AucP0ESw/Live: 
+2025-01-05 01:38:50,298 - debug - URL Streams https://www.youtube.com/channel/UCDUxOvbwu1bnyD7AucP0ESw/Live: <Response [200]>
+2025-01-05 01:38:50,699 - debug - URL Streams https://www.youtube.com/watch?v=ewYTDXCeXxU/Live: {}
+2025-01-05 01:38:51,040 - debug - URL Streams https://www.youtube.com/watch?v=HwDXYSa5GlE/live: {}
+2025-01-05 01:38:51,402 - debug - URL Streams https://www.youtube.com/watch?v=atp5bj05UyM/live: {}
+2025-01-05 01:38:51,732 - debug - URL Streams https://www.youtube.com/watch?v=MygtOAyBN7M/live: {}
+2025-01-05 01:38:52,052 - debug - URL Streams https://www.youtube.com/watch?v=pM4O3DwIQ2o/live: {}
+2025-01-05 01:38:52,362 - debug - URL Streams https://www.youtube.com/watch?v=WXJoE88lS-4/live: {}
+2025-01-05 01:38:53,255 - debug - URL Streams https://www.youtube.com/watch?v=bX7yOW-XOWc/live: {}
+2025-01-05 01:38:53,585 - debug - URL Streams https://www.youtube.com/watch?v=Ho6s54dgOZw/live: {}
+2025-01-05 01:38:53,924 - debug - URL Streams https://www.youtube.com/watch?v=TbcXvJqd6d8/live: {}
+2025-01-05 01:38:54,711 - debug - URL Streams https://www.youtube.com/watch?v=R0KcCDYj8zU/live: {}
+2025-01-05 01:38:55,043 - error - URL Error No PluginError https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/Live: 
+2025-01-05 01:38:55,446 - debug - URL Streams https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/Live: <Response [200]>
+2025-01-05 01:38:56,308 - debug - URL Streams https://www.youtube.com/watch?v=jfYiD4V79l4/Live: {}
+2025-01-05 01:38:56,673 - debug - URL Streams https://www.youtube.com/watch?v=x3yaF3liehk/live: {}
+2025-01-05 01:38:57,118 - debug - URL Streams https://www.youtube.com/watch?v=w_Ma8oQLmSM/Live: {}
+2025-01-05 01:38:57,755 - error - URL Error No PluginError https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/Live: 
+2025-01-05 01:38:58,290 - debug - URL Streams https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/Live: <Response [200]>
+2025-01-05 01:38:59,012 - debug - URL Streams https://www.youtube.com/watch?v=HHLZZOyXCvg/Live: {}
+2025-01-05 01:38:59,401 - error - URL Error No PluginError https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/Live: 
+2025-01-05 01:38:59,808 - debug - URL Streams https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/Live: <Response [200]>
+2025-01-05 01:39:00,995 - debug - URL Streams https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live: {}
+2025-01-05 01:39:01,328 - error - URL Error No PluginError https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ/Live: 
+2025-01-05 01:39:01,693 - debug - URL Streams https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ/Live: <Response [200]>
+2025-01-05 01:39:02,524 - debug - URL Streams https://www.youtube.com/watch?v=Yw9HPSKHO2s/Live: {}
+2025-01-05 01:39:02,843 - debug - URL Streams https://www.youtube.com/watch?v=NcoFT4eew0Q/Live: {}
+2025-01-05 01:39:03,237 - debug - URL Streams https://www.youtube.com/watch?v=-upyPouRrB8/Live: {}
+2025-01-05 01:39:03,601 - error - URL Error No PluginError https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/Live: 
+2025-01-05 01:39:03,967 - debug - URL Streams https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/Live: <Response [200]>
+2025-01-05 01:39:04,774 - debug - URL Streams https://www.youtube.com/user/AlJazeeraEnglish/live: {}
+2025-01-05 01:39:05,467 - debug - URL Streams https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live: {}
+2025-01-05 01:39:06,202 - debug - URL Streams https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live: {}
+2025-01-05 01:39:07,035 - debug - URL Streams https://www.youtube.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w/live: {}
+2025-01-05 01:39:07,848 - debug - URL Streams https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live: {}
+2025-01-05 01:39:08,709 - debug - URL Streams https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q/live: {}
+2025-01-05 01:39:09,530 - debug - URL Streams https://www.youtube.com/channel/UC-LRBEUet4xX2fRB3JitFxg/live: {}
+2025-01-05 01:39:10,232 - debug - URL Streams https://www.youtube.com/channel/UCx6h-dWzJ5NpAlja1YsApdg/live: {}
+2025-01-05 01:39:10,942 - debug - URL Streams https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live: {}
+2025-01-05 01:39:11,713 - debug - URL Streams https://www.youtube.com/channel/UCmuTmpLY35O3csvhyA6vrkg/live: {}
+2025-01-05 01:39:12,783 - debug - URL Streams https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live: {}
+2025-01-05 01:39:13,722 - debug - URL Streams https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live: {}
+2025-01-05 01:39:14,032 - debug - URL Streams https://www.youtube.com/user/deutschewelleenglish/live: {}
+2025-01-05 01:39:14,969 - debug - URL Streams https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live: {}
+2025-01-05 01:39:15,814 - debug - URL Streams https://www.youtube.com/user/skynews/live: {}
+2025-01-05 01:39:16,532 - debug - URL Streams https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live: {}
+2025-01-05 01:39:17,253 - debug - URL Streams https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live: {}
+2025-01-05 01:39:17,974 - debug - URL Streams https://www.youtube.com/user/Bloomberg/live: {}
+2025-01-05 01:39:18,698 - debug - URL Streams https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ/live: {}
+2025-01-05 01:39:19,420 - debug - URL Streams https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA/live: {}
+2025-01-05 01:39:20,261 - debug - URL Streams https://www.youtube.com/user/channelnewsasia/live: {}
+2025-01-05 01:39:21,206 - debug - URL Streams https://www.youtube.com/watch?v=ptGbSDn_MnQ/live: {}
+2025-01-05 01:39:22,016 - debug - URL Streams https://www.youtube.com/watch?v=ORi4Cx5MlyI/live: {}
+2025-01-05 01:39:22,356 - debug - URL Streams https://www.youtube.com/watch?v=gsA3-3_Cl8s/live: {}
+2025-01-05 01:39:22,726 - debug - URL Streams https://www.youtube.com/watch?v=XZ7BWbmvi94/live: {}
+2025-01-05 01:39:22,757 - error - URL Error No PluginError Nat Geo SHARKFEST IS BACK | 24/7 Shark Content | Explore | https://yt3.googleusercontent.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s176-c-k-c0x00ffffff-no-rj |: 
+2025-01-05 01:39:22,757 - error - URL Error Nat Geo SHARKFEST IS BACK | 24/7 Shark Content | Explore | https://yt3.googleusercontent.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s176-c-k-c0x00ffffff-no-rj |: No connection adapters were found for 'Nat Geo SHARKFEST IS BACK | 24/7 Shark Content | Explore | https://yt3.googleusercontent.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s176-c-k-c0x00ffffff-no-rj |'
+2025-01-05 01:39:23,099 - debug - URL Streams https://www.youtube.com/watch?v=lFPG2B7hJs0/live: {}
+2025-01-05 01:39:23,475 - debug - URL Streams https://www.youtube.com/channel/UCBnZ16ahKA2DZ_T5W0FPUXg/live: {}
+2025-01-05 01:39:23,792 - debug - URL Streams https://www.youtube.com/channel/UCVt43Y46_8DHzwhLau0xVcw/live: {}
+2025-01-05 01:39:24,463 - debug - URL Streams https://youtube.com/c/PowerRangersOfficial/live: {}
+2025-01-05 01:39:24,808 - debug - URL Streams https://www.youtube.com/watch?v=1R35uh5J4Yg/live: {}
+2025-01-05 01:39:25,126 - debug - URL Streams https://www.youtube.com/watch?v=5aglJRVC9ts/live: {}
+2025-01-05 01:39:25,849 - debug - URL Streams https://www.youtube.com/watch?v=XUoMptfVZ2A/live: {}
+2025-01-05 01:39:26,676 - debug - URL Streams https://www.youtube.com/channel/UCUe6ZpY6TJ0no8jI4l2iLxw/live: {}
+2025-01-05 01:39:27,494 - debug - URL Streams https://www.youtube.com/channel/UCmWZB57dUwFfj847-4y63JA/live: {}
+2025-01-05 01:39:27,696 - debug - URL Streams https://www.youtube.com/channel/UC5M_h2S8Ldoc9M6f7B-_m6A/live: {}
+2025-01-05 01:39:28,469 - debug - URL Streams https://www.youtube.com/c/DaveAndAva/live: {}
+2025-01-05 01:39:28,754 - debug - URL Streams https://www.youtube.com/user/ENGLISHCLASS101/live: {}
+2025-01-05 01:39:29,049 - debug - URL Streams https://www.youtube.com/c/SimplilearnOfficial/live: {}
+2025-01-05 01:39:29,893 - debug - URL Streams https://www.youtube.com/watch?v=djslEyHPpW4/Live: {}
+2025-01-05 01:39:30,136 - error - URL Error No PluginError https://www.youtube.com/user/TechGuyLabs/Live: 
+2025-01-05 01:39:30,372 - debug - URL Streams https://www.youtube.com/user/TechGuyLabs/Live: <Response [200]>
+2025-01-05 01:39:31,161 - debug - URL Streams https://www.youtube.com/watch?v=CjtaROG-Ezk/Live: {}
+2025-01-05 01:39:31,446 - error - URL Error No PluginError https://www.youtube.com/channel/UCCU3AYg53YY8tBBtGiuisrw/Live: 
+2025-01-05 01:39:31,691 - debug - URL Streams https://www.youtube.com/channel/UCCU3AYg53YY8tBBtGiuisrw/Live: <Response [200]>
+2025-01-05 01:39:32,141 - error - URL Error No PluginError https://www.youtube.com/channel/UC-7z5DvOhWT4RxeYb3Bh77Q/Live: 
+2025-01-05 01:39:32,536 - debug - URL Streams https://www.youtube.com/channel/UC-7z5DvOhWT4RxeYb3Bh77Q/Live: <Response [200]>
+2025-01-05 01:39:33,357 - debug - URL Streams https://www.youtube.com/watch?v=9lQ2JCodIeA/Live: {}
+2025-01-05 01:39:33,686 - debug - URL Streams https://www.youtube.com/watch?v=0qfiHGUstk4/Live: {}
+2025-01-05 01:39:33,847 - error - URL Error No PluginError https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live: 
+2025-01-05 01:39:33,990 - debug - URL Streams https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live: <Response [200]>
+2025-01-05 01:39:34,336 - debug - URL Streams https://www.youtube.com/watch?v=qoEcy8HS8-8/Live: {}
+2025-01-05 01:39:35,167 - debug - URL Streams https://www.youtube.com/watch?v=2cyQPN5xQtU/Live: {}
+2025-01-05 01:39:35,892 - debug - URL Streams https://www.youtube.com/watch?v=AdUw5RdyZxI/Live: {}
+2025-01-05 01:39:36,242 - debug - URL Streams https://www.youtube.com/watch?v=1-iS7LArMPA/live: {}
+2025-01-05 01:39:37,045 - debug - URL Streams https://www.youtube.com/watch?v=4qyZLflp-sI/live: {}
+2025-01-05 01:39:37,758 - debug - URL Streams https://www.youtube.com/watch?v=x3IRgb5kfpw/Live: {}
+2025-01-05 01:39:38,611 - debug - URL Streams https://www.youtube.com/watch?v=21X5lGlDOfg/Live: {}
+2025-01-05 01:39:38,905 - error - URL Error No PluginError https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/Live: 
+2025-01-05 01:39:39,144 - debug - URL Streams https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/Live: <Response [200]>
+2025-01-05 01:39:39,989 - debug - URL Streams https://www.youtube.com/watch?v=BhKUpUNICII/Live: {}
+2025-01-05 01:39:40,285 - error - URL Error No PluginError https://www.youtube.com/channel/UCiormkBf3jm6mfb7k0yPbKA/Live: 
+2025-01-05 01:39:40,629 - debug - URL Streams https://www.youtube.com/channel/UCiormkBf3jm6mfb7k0yPbKA/Live: <Response [200]>
+2025-01-05 01:39:41,444 - debug - URL Streams https://www.youtube.com/watch?v=3t8__aWpVsQ/Live: {}
+2025-01-05 01:39:41,778 - error - URL Error No PluginError https://www.youtube.com/channel/UC_WdFDFWB6l8mrUVuKs7gOg/Live: 
+2025-01-05 01:39:42,019 - debug - URL Streams https://www.youtube.com/channel/UC_WdFDFWB6l8mrUVuKs7gOg/Live: <Response [200]>
+2025-01-05 01:39:42,776 - debug - URL Streams https://www.youtube.com/channel/UCqSYig9Cmx6DJ3XaUYg4vpw/live: {}
+2025-01-05 01:39:43,435 - debug - URL Streams https://www.youtube.com/channel/UCtPhR34windpzltylYrj5mg/live: {}
+2025-01-05 01:39:43,658 - debug - URL Streams https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live: {}
+2025-01-05 01:39:44,380 - debug - URL Streams https://www.youtube.com/c/BoasNovasbr/live: {}
+2025-01-05 01:39:44,597 - debug - URL Streams https://www.youtube.com/c/TVVERDADE/live: {}
+2025-01-05 01:39:44,794 - debug - URL Streams https://www.youtube.com/c/AparecidaAoVivo/live: {}
+2025-01-05 01:39:45,438 - debug - URL Streams https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live: {}
+2025-01-05 01:39:46,081 - debug - URL Streams https://www.youtube.com/channel/UCOAjX8pc2fY1S5AqsXvZywg/live: {}
+2025-01-05 01:39:46,734 - debug - URL Streams https://www.youtube.com/c/LeSanctuaireNotreDamedeLourdes/live: {}
+2025-01-05 01:39:47,040 - debug - URL Streams https://www.youtube.com/c/TVACr%C3%ADtica/live: {}
+2025-01-05 01:39:47,572 - error - URL Error No PluginError https://www.youtube.com/user/diariotv4/LIVE: 
+2025-01-05 01:39:47,973 - debug - URL Streams https://www.youtube.com/user/diariotv4/LIVE: <Response [200]>
+2025-01-05 01:39:48,891 - debug - URL Streams https://www.youtube.com/channel/UCoja0MNI4SIvXqJR3szbSfw/live: {}
+2025-01-05 01:39:49,685 - debug - URL Streams https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA/live: {}
+2025-01-05 01:39:50,314 - debug - URL Streams https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live: {}
+2025-01-05 01:39:51,005 - debug - URL Streams https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live: {}
+2025-01-05 01:39:51,741 - debug - URL Streams https://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live: {}
+2025-01-05 01:39:51,988 - debug - URL Streams https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live: {}
+2025-01-05 01:39:52,771 - debug - URL Streams https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live: {}
+2025-01-05 01:39:53,106 - debug - URL Streams https://www.youtube.com/channel/UCD9nZ3qeRGbPuHJaJduiQxA/live: {}
+2025-01-05 01:39:53,906 - debug - URL Streams https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live: {}
+2025-01-05 01:39:54,147 - debug - URL Streams https://www.youtube.com/channel/UCuXT13wiqK56NR7QSfDWpvg/live: {}
+2025-01-05 01:39:54,414 - debug - URL Streams https://www.youtube.com/channel/UC72UssJ1DNQcakZXm-B2-zw/live: {}
+2025-01-05 01:39:55,188 - debug - URL Streams https://www.youtube.com/channel/UCYUbNjkuE4lsr2v1Id2O1oA/live: {}
+2025-01-05 01:39:55,473 - debug - URL Streams https://www.youtube.com/channel/UC7Vw6oq2LCbzAhdxF_UcIWg/live: {}
+2025-01-05 01:39:56,351 - debug - URL Streams https://www.youtube.com/channel/UCoIhMkbeDRBImkGiA5mZp5A/live: {}
+2025-01-05 01:39:57,094 - debug - URL Streams https://www.youtube.com/channel/UCWTkpYvniGIUe1jeCncFzKw/live: {}
+2025-01-05 01:39:57,740 - debug - URL Streams https://www.youtube.com/channel/UCkr9qZ5tj9dGd7JvE3a8X4Q/live: {}
+2025-01-05 01:39:58,586 - debug - URL Streams https://www.youtube.com/channel/UCwPzlQU2MqEQJWgqM_0VFKQ/live: {}
+2025-01-05 01:39:59,477 - debug - URL Streams https://www.youtube.com/channel/UCrlIS7z20CnVaCrMvdkig_g/live: {}
+2025-01-05 01:40:00,321 - debug - URL Streams https://www.youtube.com/channel/UCMZiahOsO-Ad4IgrD6x4E1A/live: {}
+2025-01-05 01:40:01,120 - debug - URL Streams https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live: {}
+2025-01-05 01:40:02,054 - debug - URL Streams https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live: {}
+2025-01-05 01:40:02,930 - debug - URL Streams https://www.youtube.com/c/ADN40MX/live: {}
+2025-01-05 01:40:03,822 - debug - URL Streams https://www.youtube.com/c/nmas/live: {}
+2025-01-05 01:40:04,702 - debug - URL Streams https://www.youtube.com/c/ajmubasher/live: {}
+2025-01-05 01:40:04,828 - error - URL Error https://www.youtube.com/c/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024/live: Unable to open URL: https://www.youtube.com/c/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024/live (404 Client Error: Not Found for url: https://www.youtube.com/c/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024/live)
+2025-01-05 01:40:05,604 - debug - URL Streams https://www.youtube.com/channel/UCbpmfj2g2tYuBezI2kEDhsg/live: {}
+2025-01-05 01:40:06,241 - debug - URL Streams https://www.youtube.com/c/SBGR-Live/live: {}
+2025-01-05 01:40:06,496 - debug - URL Streams https://www.youtube.com/channel/UCsF_WAG6g2cWnFKhcrJAQCQ/live: {}
+2025-01-05 01:40:07,242 - debug - URL Streams https://www.youtube.com/c/AVTVBrasil/live: {}
+2025-01-05 01:40:07,914 - debug - URL Streams https://www.youtube.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw/live: {}
+2025-01-05 01:40:08,545 - debug - URL Streams https://www.youtube.com/channel/UCpWekERnJ3zwk-0gFlfursg/live: {}
+2025-01-05 01:40:08,760 - debug - URL Streams https://www.youtube.com/channel/UCbZEWw8NHAcW9a06s0Q0ZMg/live: {}
+2025-01-05 01:40:08,979 - debug - URL Streams https://www.youtube.com/channel/UCM6-EhR88ZM5TmhHNeBd6UA/live: {}
+2025-01-05 01:40:09,195 - debug - URL Streams https://www.youtube.com/channel/UCcjlnrL3_LV4fC9CcrHth7w/live: {}
+2025-01-05 01:40:10,022 - debug - URL Streams https://www.youtube.com/shoptime/live: {}
+2025-01-05 01:40:10,681 - debug - URL Streams https://www.youtube.com/channel/UCVbQc8XY2Cx-TgMHRHluOoQ/live: {}
+2025-01-05 01:40:11,470 - debug - URL Streams https://www.youtube.com/watch?v=UqFzfqlb60g/Live: {}
+2025-01-05 01:40:12,178 - debug - URL Streams https://www.youtube.com/watch?v=_v_wMS-uACE/Live: {}
+2025-01-05 01:40:13,152 - debug - URL Streams https://www.youtube.com/watch?v=1ph8qQnjXts/Live: {}
+2025-01-05 01:40:14,008 - debug - URL Streams https://www.youtube.com/watch?v=q-BvtDrTnxc/Live: {}
+2025-01-05 01:40:14,780 - debug - URL Streams https://www.youtube.com/watch?v=1ph8qQnjXts/live: {}
+2025-01-05 01:40:15,574 - debug - URL Streams https://www.youtube.com/watch?v=q-BvtDrTnxc/live: {}
+2025-01-05 01:40:16,333 - debug - URL Streams https://www.youtube.com/watch?v=1ph8qQnjXts/Live: {}
+2025-01-05 01:40:17,211 - debug - URL Streams https://www.youtube.com/watch?v=q-BvtDrTnxc/Live: {}
+2025-01-05 01:40:17,935 - debug - URL Streams https://www.youtube.com/watch?v=UqFzfqlb60g/Live: {}
+2025-01-05 01:40:18,670 - debug - URL Streams https://www.youtube.com/watch?v=_v_wMS-uACE/Live: {}
+2025-01-05 01:40:19,340 - debug - URL Streams https://www.youtube.com/user/qvcitalia/live: {}
+2025-01-05 01:40:19,802 - error - URL Error No PluginError https://www.youtube.com/channel/UCXg1nkxv-HywQRsIo3XAFIA/LIVE: 
+2025-01-05 01:40:20,168 - debug - URL Streams https://www.youtube.com/channel/UCXg1nkxv-HywQRsIo3XAFIA/LIVE: <Response [200]>
+2025-01-05 01:40:20,863 - debug - URL Streams https://www.youtube.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw/live: {}
+2025-01-05 01:40:21,610 - debug - URL Streams https://www.youtube.com/channel/UCyCljI7PbGR7zOIHJXQSK2w/live: {}
+2025-01-05 01:40:22,257 - debug - URL Streams https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live: {}
+2025-01-05 01:40:23,028 - debug - URL Streams https://www.youtube.com/channel/UCo4sch-fwKIeyzyPIWRXjdw/live: {}
+2025-01-05 01:40:23,229 - debug - URL Streams https://www.youtube.com/channel/UCSjkdk0uRM3v6Z_4U-hk41Q/live: {}
+2025-01-05 01:40:23,885 - debug - URL Streams https://www.youtube.com/c/createandcraft/live: {}
+2025-01-05 01:40:24,555 - debug - URL Streams https://www.youtube.com/channel/UC9r76Tzp5HxeQG7SqZwV3OA/live: {}
+2025-01-05 01:40:25,186 - debug - URL Streams https://www.youtube.com/channel/UCBROhZBlBQTxRW_3h6H-rlg/live: {}
+2025-01-05 01:40:25,888 - debug - URL Streams https://www.youtube.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ/live: {}
+2025-01-05 01:40:26,635 - debug - URL Streams https://www.youtube.com/channel/UCP_T_GqYquLmsIpmDpJvULw/live: {}
+2025-01-05 01:40:26,854 - debug - URL Streams https://www.youtube.com/channel/UCyCljI7PbGR7zOIHJXQSK2w: {}
+2025-01-05 01:40:27,532 - debug - URL Streams https://www.youtube.com/channel/UC8dXdHZshMmgDmvFVzjl55Q/live: {}
+2025-01-05 01:40:28,316 - debug - URL Streams https://www.youtube.com/channel/UCv7IxJXF5EMgzZ77DVSx4IQ/live: {}
+2025-01-05 01:40:29,110 - debug - URL Streams https://www.youtube.com/user/Gemporia/live: {}
+2025-01-05 01:40:29,448 - debug - URL Streams https://www.youtube.com/channel/UCmGXuyddt_xg6ckdbGNPAjg/live: {}
+2025-01-05 01:40:30,093 - debug - URL Streams https://www.youtube.com/channel/UCGbjb7FYYmj0z3_9iJ7dMPQ/live: {}
+2025-01-05 01:40:30,773 - debug - URL Streams https://www.youtube.com/channel/UCvpCjGQASCazC-Vxcp9tgPA/live: {}
+2025-01-05 01:40:31,405 - debug - URL Streams https://www.youtube.com/channel/UCp0urejlDaYz4G8xpTxdIvw/live: {}
+2025-01-05 01:40:32,058 - debug - URL Streams https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live: {}
+2025-01-05 01:40:32,271 - debug - URL Streams https://www.youtube.com/channel/UCWGkK1d7eUmK8XmJ4Kyu4MQ/live: {}
+2025-01-05 01:40:32,969 - debug - URL Streams https://www.youtube.com/channel/UCsxo83jFFZNC9woLRVG7d4w/live: {}
+2025-01-05 01:40:33,219 - debug - URL Streams https://www.youtube.com/channel/UCBu0BKbDNL09ihRHK5wWzvQ/live: {}
+2025-01-05 01:40:33,550 - debug - URL Streams https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live: {}
+2025-01-05 01:40:34,174 - debug - URL Streams https://www.youtube.com/channel/UC4_WjgHnlKssNxWo0uFzEcw/live: {}
+2025-01-05 01:40:34,884 - debug - URL Streams https://www.youtube.com/c/HotsaleTV/live: {}
+2025-01-05 01:40:35,704 - debug - URL Streams https://www.youtube.com/c/ViVaTVtw/live: {}
+2025-01-05 01:40:35,954 - error - URL Error No PluginError https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live: 
+2025-01-05 01:40:36,131 - debug - URL Streams https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live: <Response [200]>
+2025-01-05 01:40:36,427 - debug - URL Streams https://www.youtube.com/watch?v=u_C7Lwe1798/Live: {}
+2025-01-05 01:40:37,239 - debug - URL Streams https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live: {}
+2025-01-05 01:40:37,538 - error - URL Error No PluginError https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live: 
+2025-01-05 01:40:37,837 - debug - URL Streams https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live: <Response [200]>
+2025-01-05 01:40:38,164 - debug - URL Streams https://www.youtube.com/watch?v=xvGxvwWlnJ8/Live: {}
+2025-01-05 01:40:38,364 - error - URL Error No PluginError https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live: 
+2025-01-05 01:40:38,557 - debug - URL Streams https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live: <Response [200]>
+2025-01-05 01:40:38,758 - error - URL Error No PluginError https://www.youtube.com/c/televisamorelos/Live: 
+2025-01-05 01:40:38,957 - debug - URL Streams https://www.youtube.com/c/televisamorelos/Live: <Response [200]>
+2025-01-05 01:40:39,219 - debug - URL Streams https://www.youtube.com/user/SenadoLXILegislatura/live: {}
+2025-01-05 01:40:39,966 - debug - URL Streams https://www.youtube.com/channel/UC6qrG3W8SMK0jior2olka3g/live: {}
+2025-01-05 01:40:40,770 - debug - URL Streams https://www.youtube.com/channel/UC1dI_81gsFYkd_EdA0IIBaA/live: {}
+2025-01-05 01:40:41,423 - debug - URL Streams https://www.youtube.com/channel/UCT_8WtjN20pye20BZ6LdkMQ/live: {}
+2025-01-05 01:40:42,136 - debug - URL Streams https://www.youtube.com/channel/UC0djAWwMXP22wzocdJR9dWw/live: {}
+2025-01-05 01:40:42,904 - debug - URL Streams https://www.youtube.com/channel/UCDmNmxF3ZVMeGyvWE9tOqPQ/live: {}
+2025-01-05 01:40:43,247 - debug - URL Streams https://www.youtube.com/watch?v=0qfiHGUstk4/Live: {}
+2025-01-05 01:40:43,494 - error - URL Error No PluginError https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live: 
+2025-01-05 01:40:43,635 - debug - URL Streams https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live: <Response [200]>
+2025-01-05 01:40:43,964 - debug - URL Streams https://www.youtube.com/watch?v=qoEcy8HS8-8/Live: {}
+2025-01-05 01:40:44,781 - debug - URL Streams https://www.youtube.com/channel/UCwP4zsC0r9eqRQOethu5EFg/live: {}
+2025-01-05 01:40:44,989 - debug - URL Streams https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live: {}
+2025-01-05 01:40:45,750 - debug - URL Streams https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live: {}
+2025-01-05 01:40:46,574 - debug - URL Streams https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live: {}
+2025-01-05 01:40:46,690 - error - URL Error https://www.youtube.com/user/telesurtv/live: Unable to open URL: https://www.youtube.com/user/telesurtv/live (404 Client Error: Not Found for url: https://www.youtube.com/user/telesurtv/live)
+2025-01-05 01:40:47,487 - debug - URL Streams https://www.youtube.com/user/telesurenglish/live: {}
+2025-01-05 01:40:48,298 - debug - URL Streams https://www.youtube.com/@rtvenoticias/live: {}
